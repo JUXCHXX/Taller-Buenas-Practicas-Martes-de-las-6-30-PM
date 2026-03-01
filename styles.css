@@ -23,3 +23,6 @@ body {
 .perfil {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+.perfil {
+    border-radius: 8px;
+}
